@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/jaleedvgh.png" alt="Jale's Cat" width="150">
+</p>
+
 <h1 align="center">Hi, I'm Jale</h1>
 <h3 align="center">Cooking up random side projects & crafting clean UI</h3>
 
@@ -18,6 +23,7 @@
 - Still learning, still experimenting. I also like to use the latest features in Luau and write type-checked scripts.
 
 ### Tech Stack
+
 <p align="center">
   <a href="https://luau.org/"><img src="https://img.shields.io/badge/Luau-%2300A2FF?style=for-the-badge&logo=luau&labelColor=black" alt="Luau"></a><a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&labelColor=black" alt="Lua"></a>
 </p>
